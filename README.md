@@ -108,13 +108,10 @@ images/
 Then display them like this:
 
 ```markdown
-## Line Chart
+## Bar Chart
 
-![Bar Chart](images/high_quality_plot.png)
+<img src="images/figure.png">
 
-## Scatter Plot
-
-![Scatter Plot](images/scatter_plot.png)
 ```
 
 ---
