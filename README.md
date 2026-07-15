@@ -110,7 +110,9 @@ Then display them like this:
 ```markdown
 ## Bar Chart
 
-<img src="images/figure.png">
+<p align="center">
+    <img src="images/figure.png" width="700">
+</p>
 
 ```
 
