@@ -1,1 +1,18 @@
-Nothing
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# For files
+
+
+# For txt files
+*.txt
