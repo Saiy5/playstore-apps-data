@@ -110,9 +110,9 @@ Then display them like this:
 ```markdown
 ## Bar Chart
 
-<p align="center">
-    <img src="images/figure.png" width="700">
-</p>
+![Bar Chart](images/figure.png)
+
+## Scatter Plot
 
 ```
 
