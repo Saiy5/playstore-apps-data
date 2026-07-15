@@ -22,72 +22,13 @@ This repository contains my practice code, notes, and projects while learning da
 
 ## 🐼 Pandas
 
-- Reading files
-- DataFrames & Series
-- Selecting rows and columns
-- Filtering data
-- Sorting values
-- Handling missing values
-- Removing duplicates
-- Renaming columns
-- Data cleaning
-- Creating new columns
-- String operations
-- DateTime operations
-- GroupBy
-- Aggregation
-- Merge & Join
-- Concatenate
-- Pivot Tables
-- Reshaping Data
-- Value Counts
-- Apply()
-- Map()
-- Replace()
-- Resample()
-- Rolling Window
-- Indexing (loc & iloc)
-
 ---
 
 ## 📈 Matplotlib
 
-- Line Charts
-- Bar Charts
-- Scatter Plots
-- Histograms
-- Pie Charts
-- Box Plots
-- Multiple Plots
-- Figure & Axes
-- Labels
-- Titles
-- Legends
-- Grid
-- Colors
-- Styles
-- Annotations
-- Date Formatting
-- Saving Figures
-
 ---
 
 ## 📊 Plotly
-
-- Interactive Line Charts
-- Scatter Charts
-- Bar Charts
-- Pie Charts
-- Box Plots
-- Histograms
-- Bubble Charts
-- Choropleth Maps
-- Sunburst Charts
-- Treemaps
-- Animations
-- Hover Information
-- Color Scales
-- Dashboards
 
 ---
 
@@ -169,7 +110,7 @@ Then display them like this:
 ```markdown
 ## Line Chart
 
-![Line Chart](images/line_chart.png)
+![Bar Chart](images/high_quality_plot.png)
 
 ## Scatter Plot
 
