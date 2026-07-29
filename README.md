@@ -140,18 +140,6 @@ Then display them like this:
 
 ---
 
-# ⭐ Future Improvements
-
-- More real-world datasets
-- Mini projects
-- Dashboard projects
-- Data storytelling
-- Exploratory Data Analysis (EDA)
-- Statistical analysis
-- Machine Learning preparation
-
----
-
 # 🤝 Contributions
 
 Suggestions, improvements, and feedback are always welcome!
