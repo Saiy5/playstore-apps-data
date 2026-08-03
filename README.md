@@ -118,19 +118,6 @@ Then display them like this:
 
 ---
 
-# 🎯 Goals
-
-- Learn Data Analysis
-- Practice Python
-- Master Pandas
-- Learn Data Cleaning
-- Build Interactive Visualizations
-- Create Real-world Projects
-- Improve Problem Solving
-- Build Portfolio Projects
-
----
-
 # 📖 Learning Resources
 
 - Pandas Documentation
@@ -151,19 +138,3 @@ Feel free to fork the repository and submit a Pull Request.
 # 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-# 🌟 If you find this repository helpful
-
-Please consider giving it a ⭐ on GitHub.
-
-It motivates me to keep learning and sharing more projects!
-
----
-
-## 👨‍💻 Author
-
-**Suman Mondal**
-
-Learning Python • Data Analysis • Data Visualization
