@@ -18,20 +18,6 @@ This repository contains my practice code, notes, and projects while learning da
 
 ---
 
-# 📚 Topics Covered
-
-## 🐼 Pandas
-
----
-
-## 📈 Matplotlib
-
----
-
-## 📊 Plotly
-
----
-
 # 📂 Repository Structure
 
 ```
@@ -133,10 +119,10 @@ Then display them like this:
 
 # 📖 Learning Resources
 
+- Python Documentation
 - Pandas Documentation
 - Matplotlib Documentation
 - Plotly Documentation
-- Python Documentation
 
 ---
 
